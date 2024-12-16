@@ -1,6 +1,6 @@
 # 📓 **Class Exercise: APIs and Web Scrapping** 🌐
 
-This is a simple example of APIs usage and web scrapping. It's composed of four exercises that approach these themes on different angles: scrapping information from a web store, get place names from a certain subreddit and consulting their positions with an API, building an API REST to get news from _El País_ newsletter on certain topicsa and building an API to censor faces on an image.
+This is a simple example of APIs usage and web scrapping. It's composed of four exercises that approach these themes on different angles: scrapping information from a web store, get place names from a certain subreddit and consulting their positions with an API, building an API REST to get news from _El País_ newsletter on certain topics and building an API to censor faces on an image.
 
 ---
 
